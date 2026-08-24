@@ -11,7 +11,7 @@ require (
 	go.anx.io/go-anxcloud v0.14.5
 	google.golang.org/grpc v1.72.0
 	k8s.io/klog/v2 v2.140.0
-	k8s.io/mount-utils v0.36.3
+	k8s.io/mount-utils v0.36.4
 )
 
 require (
@@ -26,7 +26,7 @@ require (
 	golang.org/x/mod v0.35.0 // indirect
 	golang.org/x/net v0.53.0 // indirect
 	golang.org/x/sync v0.20.0 // indirect
-	golang.org/x/sys v0.43.0 // indirect
+	golang.org/x/sys v0.46.0 // indirect
 	golang.org/x/text v0.36.0 // indirect
 	golang.org/x/tools v0.44.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250218202821-56aae31c358a // indirect
